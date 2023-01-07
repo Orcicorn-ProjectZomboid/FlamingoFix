@@ -1,0 +1,21 @@
+version=1
+id=2913993465
+title=Flamingo Fix
+description=By default Flamingo's are incorrectly defined as a floor tile.  Anytime you place something behind them, or snow accumulates the flamingo goes invisible.  This fixes that by properly setting setting the flamingo definition as an object so that it appears in world like every other piece of furniture and decoration.
+description=
+description=[list]
+description=  [*] Safe to add/remove mid-game
+description=  [*] Works in single player and Multiplayer
+description=[/list]
+description=
+description=All credit goes to [url=https://steamcommunity.com/profiles/76561198001361863]Woodstock[/url] for figuring out the tile properties and [url=https://www.twitch.tv/royalewithcheesetv]RoyaleWithCheese[/url] for complaining loudly enough.
+description=
+description=[quote]
+description=Flamingo Fix is Open-Source and published on [url=https://github.com/Orcicorn-ProjectZomboid/FlamingoFix]Github[/url].
+description=Repackage, redistribute, recode, whatever, I don't care, do as you please.
+description=Credit would be appreciated.
+description=
+description=[img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/like_favorite.gif[/img] [url=https://ko-fi.com/orcicorn][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/kofi.png[/img][/url]
+description=[/quote]
+tags=Build 41;Items;Misc;Multiplayer;Textures
+visibility=public
