@@ -1,5 +1,5 @@
 name=Flamingo Fix
-id=Flamingofix
+id=FlamingoFix
 description=Fixes the tile definitions for Flamingo Lawn ornaments to no longer be clipped by snow and furniture
 poster=poster.png
 icon=icon.png
