@@ -9,7 +9,7 @@ description=[/list]
 description=
 description=All credit goes to [url=https://steamcommunity.com/profiles/76561198001361863]Woodstock[/url] for figuring out the tile properties and [url=https://www.twitch.tv/royalewithcheesetv]RoyaleWithCheese[/url] for complaining loudly enough.
 description=
-description=No known conflicts.  It does however overwrite "[i]vegetation_ornamental_01[/i]" tile properties.
+description=No known conflicts.  Manipulates "[i]vegetation_ornamental_01[/i]" tile properties.
 description=
 description=[quote]
 description=Flamingo Fix is Open-Source and published on [url=https://github.com/Orcicorn-ProjectZomboid/FlamingoFix]Github[/url].
